@@ -28,7 +28,7 @@ Back End
 Pré-requisitos: Java 17
 
 # clonar repositório
-git clone https://github.com/AugustoCesar/dsmovie
+git clone https://github.com/joaociardullo/dsmovie
 
 # entrar na pasta do projeto back end
 cd backend
@@ -41,7 +41,7 @@ Front End
 Pré-requisitos: npm / yarn
 
 # clonar repositório
-git clone https://github.com/AugustoCesar/dsmovie
+git clone https://github.com/joaociardullo/dsmovie
 
 # entrar na pasta do projeto front end
 cd frontend
